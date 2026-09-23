@@ -21,13 +21,18 @@ spatial-predictive-cxl-telecom-switch/
 ├── README.md
 ├── FAQ.md
 ├── docs/
+│   ├── images/
+│   │   ├── fig1_surge_demand.png
+│   │   ├── fig2_latency_comparison.png
+│   │   └── fig3_tco_savings.png
 │   ├── 01_mathematical_foundations.md
 │   ├── 02_hardware_architecture.md
 │   ├── 04_quantitative_metrics.md
 │   ├── 05_optical_transport_layer.md
 │   └── 08_operator_deployment_tco.md
 ├── simulation/
-│   └── discrete_event_simulator.py
+│   ├── discrete_event_simulator.py
+│   └── generate_plots.py
 ├── paper/
 │   └── manuscript.tex
 ├── rtl/
