@@ -5,14 +5,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![IEEE Paper](https://img.shields.io/badge/IEEE%2FACM%20ToN-Published-blue?style=for-the-badge&logo=ieee)](https://github.com/Abhishek1033ubuntu/spatial-predictive-cxl-telecom-switch)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22924127-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.22924127)
-
 <!-- Technical Specifications -->
 [![CXL Specification](https://img.shields.io/badge/CXL-3.0%20Type--3-00599C?style=for-the-badge&logo=intel)](https://www.computeexpresslink.org/)
 [![P4 Data Plane](https://img.shields.io/badge/P4-16%20Programmable-orange?style=for-the-badge&logo=p4)](https://p4.org/)
 [![Hardware HDL](https://img.shields.io/badge/HDL-SystemVerilog%202017-181717?style=for-the-badge&logo=systemverilog)](https://github.com/Abhishek1033ubuntu/spatial-predictive-cxl-telecom-switch)
 [![Simulation Engine](https://img.shields.io/badge/Simulation-Python%20%7C%20Discrete--Event-3776AB?style=for-the-badge&logo=python)](https://github.com/Abhishek1033ubuntu/spatial-predictive-cxl-telecom-switch)
 [![AI Collaborator](https://img.shields.io/badge/AI%20Collaborator-Gemini-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white)](https://github.com/Abhishek1033ubuntu/spatial-predictive-cxl-telecom-switch)
-
 <!-- Performance & Results -->
 [![Packet Loss](https://img.shields.io/badge/Frame%20Loss-0%25%20(Zero--Loss)-success?style=for-the-badge)](https://github.com/Abhishek1033ubuntu/spatial-predictive-cxl-telecom-switch)
 [![Jitter Variance](https://img.shields.io/badge/Jitter%20%CE%94t-0.0049%20ms-purple?style=for-the-badge)](https://github.com/Abhishek1033ubuntu/spatial-predictive-cxl-telecom-switch)
