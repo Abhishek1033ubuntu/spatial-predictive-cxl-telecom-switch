@@ -16,9 +16,10 @@ An end-to-end framework combining mobility spatial forecasting, P4 programmable 
 
 Repository File Hierarchy & Sitemap
 ```
-spatial-predictive-cxl-switch/
+spatial-predictive-cxl-telecom-switch/
 ├── LICENSE
 ├── README.md
+├── FAQ.md
 ├── docs/
 │   ├── 01_mathematical_foundations.md
 │   ├── 02_hardware_architecture.md
