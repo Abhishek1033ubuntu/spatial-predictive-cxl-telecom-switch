@@ -36,5 +36,9 @@ spatial-predictive-cxl-switch/
     └── handoff_dossier.md
 ```
 
+## Acknowledggments
+This architecture, mathematical formulation, simulation suite, and RTL implementation were developed in collaboration with **Gemini** (Google AI) as an interactive engineering and research partner.
+
 ## License
 Distributed under the MIT License. See `LICENSE` for details.
+
