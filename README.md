@@ -16,6 +16,8 @@
 <!-- Performance & Results -->
 [![Packet Loss](https://img.shields.io/badge/Frame%20Loss-0%25%20(Zero--Loss)-success?style=for-the-badge)](https://github.com/Abhishek1033ubuntu/spatial-predictive-cxl-telecom-switch)
 [![Jitter Variance](https://img.shields.io/badge/Jitter%20%CE%94t-0.0049%20ms-purple?style=for-the-badge)](https://github.com/Abhishek1033ubuntu/spatial-predictive-cxl-telecom-switch)
+
+---
 An end-to-end framework combining mobility spatial forecasting, P4 programmable data planes, CXL 3.0 zero-copy memory routing, and Flex-Grid ROADM transponder control.
 
 ## Key Performance Results
