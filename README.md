@@ -41,6 +41,16 @@ spatial-predictive-cxl-telecom-switch/
 └── dossier/
     └── handoff_dossier.md
 ```
+## Performance Visualizations
+
+### Spatial Traffic Demand & Predictive Horizon
+![Figure 1: Spatial Surge Demand](docs/images/fig1_surge_demand.png)
+
+### One-Way Latency & Jitter Comparison
+![Figure 2: Latency & Jitter Comparison](docs/images/fig2_latency_comparison.png)
+
+### 5-Year TCO Savings
+![Figure 3: 5-Year Cumulative TCO](docs/images/fig3_tco_savings.png)
 
 ## Acknowledggments
 This architecture, mathematical formulation, simulation suite, and RTL implementation were developed in collaboration with **Gemini** (Google AI) as an interactive engineering and research partner.
