@@ -4,7 +4,7 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/Abhishek1033ubuntu/spatial-predictive-cxl-telecom-switch)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![IEEE Paper](https://img.shields.io/badge/IEEE%2FACM%20ToN-Published-blue?style=for-the-badge&logo=ieee)](https://github.com/Abhishek1033ubuntu/spatial-predictive-cxl-telecom-switch)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22924127.svg)](https://doi.org/10.5281/zenodo.22924127) 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22924127-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.22924127)  
 <!-- Technical Specifications -->
 [![CXL Specification](https://img.shields.io/badge/CXL-3.0%20Type--3-00599C?style=for-the-badge&logo=intel)](https://www.computeexpresslink.org/)
 [![P4 Data Plane](https://img.shields.io/badge/P4-16%20Programmable-orange?style=for-the-badge&logo=p4)](https://p4.org/)
